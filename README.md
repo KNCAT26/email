@@ -1,4 +1,9 @@
-# email
-TEMP LOGO HOSTING
-Temporary static assets for email signature testing.
-Assets will be moved to official client hosting prior to rollout.
+# Email Signature Test Assets
+
+Temporary static assets used for testing email signature rendering.
+
+Client logos are publicly available brand assets and are hosted here
+for validation purposes only.
+
+Final production assets will be moved to the client’s approved
+hosting environment prior to rollout.
