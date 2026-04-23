@@ -1,0 +1,5 @@
+assets-test/
+├── README.md
+└── cub/
+    └── logo/
+        └── cub-logo-email.png
